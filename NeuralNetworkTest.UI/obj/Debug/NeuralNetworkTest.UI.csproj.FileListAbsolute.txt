@@ -1,0 +1,22 @@
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.csprojResolveAssemblyReference.cache
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.Form1.resources
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.Properties.Resources.resources
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.csproj.GenerateResource.Cache
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\bin\Debug\NeuralNetworkTest.UI.exe.config
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\bin\Debug\NeuralNetworkTest.UI.exe
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\bin\Debug\NeuralNetworkTest.UI.pdb
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\bin\Debug\NeuralNetworkTest.dll
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\bin\Debug\NeuralNetworkTest.pdb
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.exe
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.pdb
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\bin\Debug\NeuralNetworkTest.UI.exe.config
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.exe
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.pdb
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\bin\Debug\NeuralNetworkTest.UI.exe
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\bin\Debug\NeuralNetworkTest.UI.pdb
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\bin\Debug\NeuralNetworkTest.dll
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\bin\Debug\NeuralNetworkTest.pdb
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.csprojResolveAssemblyReference.cache
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.Form1.resources
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.Properties.Resources.resources
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest.UI\obj\Debug\NeuralNetworkTest.UI.csproj.GenerateResource.Cache

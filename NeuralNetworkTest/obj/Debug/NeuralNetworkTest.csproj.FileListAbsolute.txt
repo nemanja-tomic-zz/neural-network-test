@@ -1,0 +1,11 @@
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\NeuralNetworkTest.pdb
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\NeuralNetworkTest.pdb
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\NeuralNetworkTest.dll.config
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\NeuralNetworkTest.dll
+c:\users\nemanja\documents\visual studio 2013\Projects\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\NeuralNetworkTest.dll
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\NeuralNetworkTest.dll.config
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\NeuralNetworkTest.dll
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\NeuralNetworkTest.pdb
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\NeuralNetworkTest.csprojResolveAssemblyReference.cache
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\NeuralNetworkTest.dll
+D:\Projects\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\NeuralNetworkTest.pdb
